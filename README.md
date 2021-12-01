@@ -8,9 +8,10 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+
 https://drzimmer.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Daniel Zimmermann
+Made with ❤️ by Daniel Zimmermann ❤️
 
 ### ©️2019 Run Buddy, Inc 
